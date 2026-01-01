@@ -3,6 +3,10 @@
 # copyclean
 Copy text **without the formatting nonsense**.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Live Site](https://img.shields.io/badge/demo-live-blue)](https://www.lukedunsmore.com/copyclean)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+
 Auto-clean on **Ctrl / Cmd + C** or use the popup button to copy any selection as **plain text**.
 
 Built for Manifest V3 — simple, reliable, and blessedly drama-free. Privacy-first, local storage only.
